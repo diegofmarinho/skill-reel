@@ -15,7 +15,7 @@ Entrega `render/reel-v1.mp4` verificado (`VERIFY.md`, folha de quadros, zona seg
 
 ## Instalar
 ```bash
-git clone https://github.com/Felpborges/skill-reel.git ~/.claude/skills/reel
+git clone https://github.com/diegofmarinho/skill-reel.git ~/.claude/skills/reel
 ```
 Depois, no Claude Code, é só mandar o vídeo e pedir "edita esse reel" (ou `/reel`).
 
